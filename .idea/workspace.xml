@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ee750ad-813a-4037-8b28-f0c1ad6c6362" name="Default Changelist" comment="" />
+    <list default="true" id="6ee750ad-813a-4037-8b28-f0c1ad6c6362" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/Serialize/ObjectInputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/Serialize/ObjectOutputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/Serialize/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/Threads/ThreadDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/Threads/ThreadDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/Threads/ThreadDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/_Annotation/AnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/_Annotation/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/_InetAddress/InetAddressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/_ReflectClass/ReflectConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/_ReflectClass/ReflectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/_ReflectClass/ReflectField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/_ReflectClass/ReflectMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jiang/_ReflectClass/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/com/jiang/overload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/f.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/f.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/f.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +35,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="250suLnxzNAtwK8d2ZSpOOolH0j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,8 +56,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -40,13 +70,13 @@
       <recent name="C:\Users\27801\Desktop\JavaLearning\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.overload">
-    <configuration name="FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiang.File.FileDemo1" />
+  <component name="RunManager" selected="Application.AnnotationDemo">
+    <configuration name="AnnotationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiang._Annotation.AnnotationDemo" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiang.File.*" />
+          <option name="PATTERN" value="com.jiang._Annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiang.io.OutTest" />
+    <configuration name="ReflectConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiang._ReflectClass.ReflectConstructor" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiang.io.*" />
+          <option name="PATTERN" value="com.jiang._ReflectClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiang.io.Test" />
+    <configuration name="ReflectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiang._ReflectClass.ReflectDemo" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiang.io.*" />
+          <option name="PATTERN" value="com.jiang._ReflectClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiang.character.Test" />
+    <configuration name="ReflectField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiang._ReflectClass.ReflectField" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiang.character.*" />
+          <option name="PATTERN" value="com.jiang._ReflectClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="overload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiang.overload.overload" />
+    <configuration name="ReflectMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiang._ReflectClass.ReflectMethod" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiang.overload.*" />
+          <option name="PATTERN" value="com.jiang._ReflectClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.overload" />
-        <item itemvalue="Application.OutTest" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.FileDemo1" />
+        <item itemvalue="Application.AnnotationDemo" />
+        <item itemvalue="Application.ReflectMethod" />
+        <item itemvalue="Application.ReflectField" />
+        <item itemvalue="Application.ReflectConstructor" />
+        <item itemvalue="Application.ReflectDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +157,13 @@
       <option name="presentableId" value="Default" />
       <updated>1644675563374</updated>
       <workItem from="1644675571838" duration="3195000" />
-      <workItem from="1644720041344" duration="6385000" />
+      <workItem from="1644720041344" duration="8182000" />
+      <workItem from="1644806293276" duration="3072000" />
+      <workItem from="1645348549404" duration="5883000" />
+      <workItem from="1645405382995" duration="76000" />
+      <workItem from="1645763309843" duration="6899000" />
+      <workItem from="1645837830256" duration="3714000" />
+      <workItem from="1645923066717" duration="7811000" />
     </task>
     <servers />
   </component>
@@ -139,29 +175,57 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1644678531721" />
-    <state x="723" y="218" key="FileChooserDialogImpl" timestamp="1644731433325">
+    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1645928114618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="723" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1644731433325" />
-    <state width="1867" height="269" key="GridCell.Tab.0.bottom" timestamp="1644761210549">
+    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1645928114618" />
+    <state x="723" y="218" key="FileChooserDialogImpl" timestamp="1645405430541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1644761210549" />
-    <state width="1867" height="269" key="GridCell.Tab.0.center" timestamp="1644761210549">
+    <state x="723" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1645405430541" />
+    <state width="1867" height="294" key="GridCell.Tab.0.bottom" timestamp="1645947693315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1644761210549" />
-    <state width="1867" height="269" key="GridCell.Tab.0.left" timestamp="1644761210549">
+    <state width="1867" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1645947693315" />
+    <state width="1867" height="294" key="GridCell.Tab.0.center" timestamp="1645947693315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1644761210549" />
-    <state width="1867" height="269" key="GridCell.Tab.0.right" timestamp="1644761210549">
+    <state width="1867" height="294" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1645947693315" />
+    <state width="1867" height="294" key="GridCell.Tab.0.left" timestamp="1645947693315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1644761210549" />
-    <state x="345" y="0" key="SettingsEditor" timestamp="1644731612366">
+    <state width="1867" height="294" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1645947693315" />
+    <state width="1867" height="294" key="GridCell.Tab.0.right" timestamp="1645947693315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="345" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1644731612366" />
+    <state width="1867" height="294" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1645947693315" />
+    <state width="1867" height="333" key="GridCell.Tab.1.bottom" timestamp="1645930510091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1645930510091" />
+    <state width="1867" height="333" key="GridCell.Tab.1.center" timestamp="1645930510091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1645930510091" />
+    <state width="1867" height="333" key="GridCell.Tab.1.left" timestamp="1645930510091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1645930510091" />
+    <state width="1867" height="333" key="GridCell.Tab.1.right" timestamp="1645930510091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1645930510091" />
+    <state x="345" y="0" key="SettingsEditor" timestamp="1644765495085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1644765495085" />
+    <state x="493" y="0" width="933" height="1040" key="find.popup" timestamp="1644826035943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="0" width="933" height="1040" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1644826035943" />
+    <state x="161" y="54" key="new project wizard" timestamp="1645405432602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="54" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1645405432602" />
   </component>
 </project>
